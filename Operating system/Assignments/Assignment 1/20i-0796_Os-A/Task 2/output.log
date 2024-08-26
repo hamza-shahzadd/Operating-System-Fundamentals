@@ -1,0 +1,103 @@
+Option 01 Selected at و 20:13:24 PKT ت 11 اکتوبر 2022
+Option 01 Selected at و 20:15:10 PKT ت 11 اکتوبر 2022
+Filename: 
+Permissions Changed
+Updated Permissions of  :total 32
+-rw-rw-r-- 1 hamza hamza   64 اکتوبر 11 00:59 dummy.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:06 f1.txt
+-rw-rw-rw- 1 hamza hamza   22 اکتوبر  8 16:07 f2.txt
+-rw-rw-rw- 1 hamza hamza   20 اکتوبر  8 16:07 f3.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:07 f4.txt
+---x--x--x 1 hamza hamza   43 اکتوبر 11 18:10 hamza.txt
+-rw-rw-r-- 1 hamza hamza  180 اکتوبر 11 20:15 output.log
+-rwxrwxrwx 1 hamza hamza 1638 اکتوبر 11 20:14 task2.sh
+Option 01 Selected at و 20:20:37 PKT ت 11 اکتوبر 2022
+Filename:  hamza.txt
+Permissions Changed
+Updated Permissions of  :total 32
+-rw-rw-r-- 1 hamza hamza   64 اکتوبر 11 00:59 dummy.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:06 f1.txt
+-rw-rw-rw- 1 hamza hamza   22 اکتوبر  8 16:07 f2.txt
+-rw-rw-rw- 1 hamza hamza   20 اکتوبر  8 16:07 f3.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:07 f4.txt
+-rw-rw-rw- 1 hamza hamza   43 اکتوبر 11 18:10 hamza.txt
+-rw-rw-r-- 1 hamza hamza  801 اکتوبر 11 20:20 output.log
+-rwxrwxrwx 1 hamza hamza 1972 اکتوبر 11 20:20 task2.sh
+Option 02 Selected at و 20:20:47 PKT ت 11 اکتوبر 2022
+File name:  hamza.txt
+String:  ham.a
+Output all the lines in hamza.txt where ham.a is found. 
+Option 03 Selected at و 20:21:29 PKT ت 11 اکتوبر 2022
+Option 04 Selected at و 20:22:04 PKT ت 11 اکتوبر 2022
+Option 02 Selected at و 20:22:22 PKT ت 11 اکتوبر 2022
+File name:  hamza.txt
+String:  hamza
+Output all the lines in hamza.txt where hamza is found. 
+Option 02 Selected at و 20:22:37 PKT ت 11 اکتوبر 2022
+File name:  hamza.txt
+String:  ha.za
+Output all the lines in hamza.txt where ha.za is found. 
+Option 04 Selected at و 20:23:55 PKT ت 11 اکتوبر 2022
+Option 04 Selected at و 20:24:15 PKT ت 11 اکتوبر 2022
+Option 01 Selected at و 20:29:03 PKT ت 11 اکتوبر 2022
+Filename:  hamza.txt
+Permissions Changed
+Updated Permissions of  :total 32
+-rw-rw-r-- 1 hamza hamza  113 اکتوبر 11 20:21 dummy.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:06 f1.txt
+-rw-rw-rw- 1 hamza hamza   22 اکتوبر 11 20:24 f2.txt
+-rw-rw-rw- 1 hamza hamza   20 اکتوبر  8 16:07 f3.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:07 f4.txt
+---x--x--x 1 hamza hamza   43 اکتوبر 11 18:10 hamza.txt
+-rw-rw-r-- 1 hamza hamza 2138 اکتوبر 11 20:29 output.log
+-rwxrwxrwx 1 hamza hamza 1935 اکتوبر 11 20:23 task2.sh
+Option 02 Selected at و 20:29:19 PKT ت 11 اکتوبر 2022
+File name:  hamza.txt
+String:  ha.za
+Output all the lines in hamza.txt where ha.za is found. 
+Option 01 Selected at و 21:18:05 PKT ت 30 نومبر 2022
+Filename:  hamza.txt
+Permissions Changed
+-ne Updated Permissions of  :
+total 32
+-rw-rw-r-- 1 hamza hamza  113 اکتوبر 11 20:21 dummy.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:06 f1.txt
+-rw-rw-rw- 1 hamza hamza   22 اکتوبر 11 20:24 f2.txt
+-rw-rw-rw- 1 hamza hamza   20 اکتوبر  8 16:07 f3.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:07 f4.txt
+-rw-rw-rw- 1 hamza hamza   43 اکتوبر 11 18:10 hamza.txt
+-rw-rw-r-- 1 hamza hamza 2918 نومبر  30 21:18 output.log
+-rwxrwxrwx 1 hamza hamza 1935 اکتوبر 11 20:23 task2.sh
+Option 02 Selected at و 21:18:21 PKT ت 30 نومبر 2022
+File name:  dummy.txt
+String:  ham
+Option 02 Selected at و 21:19:04 PKT ت 30 نومبر 2022
+File name:  hamza.txt
+String:  ham
+Option 02 Selected at و 21:19:16 PKT ت 30 نومبر 2022
+File name:  hamza.txt
+String:  .
+Option 03 Selected at و 21:19:38 PKT ت 30 نومبر 2022
+Option 04 Selected at و 21:19:52 PKT ت 30 نومبر 2022
+Option 01 Selected at و 21:42:41 PKT ت 30 نومبر 2022
+Option 02 Selected at و 21:43:01 PKT ت 30 نومبر 2022
+File name:  hamza.txt
+String:  ham
+Output all the lines in hamza.txt where ham is found. 
+Option 02 Selected at و 21:43:15 PKT ت 30 نومبر 2022
+File name:  hamza.txt
+String:  ha.
+Output all the lines in hamza.txt where ha. is found. 
+Option 03 Selected at و 21:43:34 PKT ت 30 نومبر 2022
+Option 01 Selected at و 14:11:05 PKT ت 01 دسمبر 2022
+Filename:  hamza.txt
+Permissions Changed
+Updated Permissions of  :total 36
+-rw-rw-r-- 1 hamza hamza  247 نومبر  30 21:43 dummy.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:06 f1.txt
+-rw-rw-rw- 1 hamza hamza   22 اکتوبر 11 20:24 f2.txt
+-rw-rw-rw- 1 hamza hamza   20 اکتوبر  8 16:07 f3.txt
+-rw-rw-rw- 1 hamza hamza   18 اکتوبر  8 16:07 f4.txt
+---x--x--x 1 hamza hamza   43 اکتوبر 11 18:10 hamza.txt
+-rw-rw-r-- 1 hamza hamza 4359 دسمبر   1 14:11 output.log
+-rwxrwxrwx 1 hamza hamza 1935 اکتوبر 11 20:23 task2.sh

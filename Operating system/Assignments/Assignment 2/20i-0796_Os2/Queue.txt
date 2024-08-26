@@ -1,0 +1,32 @@
+Device Queue
+Process 0
+Device Queue
+Process 1
+Network Queue
+Process 1
+Hard Disk Queue
+Process 1
+Device Queue
+Process 0
+Device Queue
+Process 1
+Network Queue
+Process 1
+Hard Disk Queue
+Process 1
+Device Queue
+Process 0
+Device Queue
+Process 1
+Network Queue
+Process 1
+Hard Disk Queue
+Process 1
+Device Queue
+Process 0
+Device Queue
+Process 1
+Network Queue
+Process 1
+Hard Disk Queue
+Process 1
